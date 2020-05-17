@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>
+      {{ page.title }}
+    </title>
+    <link href="/css/main.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+    <div class="pagecontents">
+      <h1>
+        {{ page.title }}
+      </h1>
+      {% include toc.html html=content h_min=2 h_max=2 %}
+      {{ content }}
+    </div>
+  </body>
+</html>

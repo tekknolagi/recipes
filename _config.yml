@@ -1,0 +1,7 @@
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM # GitHub Flavored Markdown
+  hard_wrap: false
+
+# https://github.com/allejo/jekyll-toc

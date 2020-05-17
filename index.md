@@ -1,12 +1,15 @@
-# Recipes
+---
+title: Recipes
+layout: index
+---
 
-## Recipe 1
+## Recipe
 
 ### Ingredients
 
 ### Instructions
 
-## Recipe 2
+## Recipe
 
 ### Ingredients
 
